@@ -4,8 +4,7 @@ PopTags Template Engine
 PopTags is a declarative template engine written in CoffeeScript and used for rendering Webpop sites.
 
 PopTags doesn't keep code and templates strictly separated.
-
-What it does is give plenty of declarative power to templates.
+But it does give plenty of declarative power to templates.
 
 Usage
 =====
